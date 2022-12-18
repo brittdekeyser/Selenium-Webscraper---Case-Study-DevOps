@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case Study Webscraper DevOps Britt De Keyser", "Case Study Webscraper DevOps Britt De Keyser\Case Study Webscraper DevOps Britt De Keyser.csproj", "{834860B3-61EB-44D8-B698-DC547D5E03AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834860B3-61EB-44D8-B698-DC547D5E03AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834860B3-61EB-44D8-B698-DC547D5E03AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834860B3-61EB-44D8-B698-DC547D5E03AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834860B3-61EB-44D8-B698-DC547D5E03AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A13C0A-57A3-4A41-B4CB-5CBAA4B57509}
+	EndGlobalSection
+EndGlobal
